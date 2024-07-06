@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "w4 run build/cart.wasm",
     "build": "asc --target release",
     "build:debug": "asc --target debug"
   },
