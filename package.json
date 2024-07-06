@@ -1,0 +1,16 @@
+{
+  "name": "experiment-w4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "asc --target release",
+    "build:debug": "asc --target debug"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assemblyscript": "^0.21.3",
+    "wasm4": "^2.7.0"
+  }
+}
